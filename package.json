@@ -1,0 +1,9 @@
+{
+  "name": "picdetect",
+  "version": "1.0.0",
+  "description": "PicDetect web app",
+  "scripts": {
+    "start": "./start.sh"
+  }
+}
+
